@@ -1,0 +1,7 @@
+C:\Users\Walison\Documents\GitHub\Csharp\AprendendoCSharp\P12-CalculaPoupanca2\bin\Debug\P12-CalculaPoupanca2.exe.config
+C:\Users\Walison\Documents\GitHub\Csharp\AprendendoCSharp\P12-CalculaPoupanca2\bin\Debug\P12-CalculaPoupanca2.exe
+C:\Users\Walison\Documents\GitHub\Csharp\AprendendoCSharp\P12-CalculaPoupanca2\bin\Debug\P12-CalculaPoupanca2.pdb
+C:\Users\Walison\Documents\GitHub\Csharp\AprendendoCSharp\P12-CalculaPoupanca2\obj\Debug\P12-CalculaPoupanca2.csprojAssemblyReference.cache
+C:\Users\Walison\Documents\GitHub\Csharp\AprendendoCSharp\P12-CalculaPoupanca2\obj\Debug\P12-CalculaPoupanca2.csproj.CoreCompileInputs.cache
+C:\Users\Walison\Documents\GitHub\Csharp\AprendendoCSharp\P12-CalculaPoupanca2\obj\Debug\P12-CalculaPoupanca2.exe
+C:\Users\Walison\Documents\GitHub\Csharp\AprendendoCSharp\P12-CalculaPoupanca2\obj\Debug\P12-CalculaPoupanca2.pdb

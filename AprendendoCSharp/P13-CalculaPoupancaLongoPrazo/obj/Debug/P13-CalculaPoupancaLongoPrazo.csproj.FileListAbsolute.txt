@@ -1,0 +1,7 @@
+C:\Users\Walison\Documents\GitHub\Csharp\AprendendoCSharp\P13-CalculaPoupancaLongoPrazo\bin\Debug\P13-CalculaPoupancaLongoPrazo.exe.config
+C:\Users\Walison\Documents\GitHub\Csharp\AprendendoCSharp\P13-CalculaPoupancaLongoPrazo\bin\Debug\P13-CalculaPoupancaLongoPrazo.exe
+C:\Users\Walison\Documents\GitHub\Csharp\AprendendoCSharp\P13-CalculaPoupancaLongoPrazo\bin\Debug\P13-CalculaPoupancaLongoPrazo.pdb
+C:\Users\Walison\Documents\GitHub\Csharp\AprendendoCSharp\P13-CalculaPoupancaLongoPrazo\obj\Debug\P13-CalculaPoupancaLongoPrazo.csprojAssemblyReference.cache
+C:\Users\Walison\Documents\GitHub\Csharp\AprendendoCSharp\P13-CalculaPoupancaLongoPrazo\obj\Debug\P13-CalculaPoupancaLongoPrazo.csproj.CoreCompileInputs.cache
+C:\Users\Walison\Documents\GitHub\Csharp\AprendendoCSharp\P13-CalculaPoupancaLongoPrazo\obj\Debug\P13-CalculaPoupancaLongoPrazo.exe
+C:\Users\Walison\Documents\GitHub\Csharp\AprendendoCSharp\P13-CalculaPoupancaLongoPrazo\obj\Debug\P13-CalculaPoupancaLongoPrazo.pdb

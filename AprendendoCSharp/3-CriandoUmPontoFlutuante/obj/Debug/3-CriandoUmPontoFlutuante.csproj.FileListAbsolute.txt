@@ -1,0 +1,7 @@
+C:\Users\Walison\Documents\GitHub\Csharp\AprendendoCSharp\3-CriandoUmPontoFlutuante\bin\Debug\3-CriandoUmPontoFlutuante.exe.config
+C:\Users\Walison\Documents\GitHub\Csharp\AprendendoCSharp\3-CriandoUmPontoFlutuante\bin\Debug\3-CriandoUmPontoFlutuante.exe
+C:\Users\Walison\Documents\GitHub\Csharp\AprendendoCSharp\3-CriandoUmPontoFlutuante\bin\Debug\3-CriandoUmPontoFlutuante.pdb
+C:\Users\Walison\Documents\GitHub\Csharp\AprendendoCSharp\3-CriandoUmPontoFlutuante\obj\Debug\3-CriandoUmPontoFlutuante.csprojAssemblyReference.cache
+C:\Users\Walison\Documents\GitHub\Csharp\AprendendoCSharp\3-CriandoUmPontoFlutuante\obj\Debug\3-CriandoUmPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\Users\Walison\Documents\GitHub\Csharp\AprendendoCSharp\3-CriandoUmPontoFlutuante\obj\Debug\3-CriandoUmPontoFlutuante.exe
+C:\Users\Walison\Documents\GitHub\Csharp\AprendendoCSharp\3-CriandoUmPontoFlutuante\obj\Debug\3-CriandoUmPontoFlutuante.pdb

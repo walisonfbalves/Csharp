@@ -1,0 +1,7 @@
+C:\Users\Walison\Documents\GitHub\Csharp\AprendendoCSharp\P14-ForEncadeado\bin\Debug\P14-ForEncadeado.exe.config
+C:\Users\Walison\Documents\GitHub\Csharp\AprendendoCSharp\P14-ForEncadeado\bin\Debug\P14-ForEncadeado.exe
+C:\Users\Walison\Documents\GitHub\Csharp\AprendendoCSharp\P14-ForEncadeado\bin\Debug\P14-ForEncadeado.pdb
+C:\Users\Walison\Documents\GitHub\Csharp\AprendendoCSharp\P14-ForEncadeado\obj\Debug\P14-ForEncadeado.csprojAssemblyReference.cache
+C:\Users\Walison\Documents\GitHub\Csharp\AprendendoCSharp\P14-ForEncadeado\obj\Debug\P14-ForEncadeado.csproj.CoreCompileInputs.cache
+C:\Users\Walison\Documents\GitHub\Csharp\AprendendoCSharp\P14-ForEncadeado\obj\Debug\P14-ForEncadeado.exe
+C:\Users\Walison\Documents\GitHub\Csharp\AprendendoCSharp\P14-ForEncadeado\obj\Debug\P14-ForEncadeado.pdb

@@ -1,0 +1,6 @@
+C:\Users\Walison\Documents\GitHub\Csharp\AprendendoCSharp\9.1-AliquotaComIfs\bin\Debug\9.1-AliquotaComIfs.exe.config
+C:\Users\Walison\Documents\GitHub\Csharp\AprendendoCSharp\9.1-AliquotaComIfs\bin\Debug\9.1-AliquotaComIfs.exe
+C:\Users\Walison\Documents\GitHub\Csharp\AprendendoCSharp\9.1-AliquotaComIfs\bin\Debug\9.1-AliquotaComIfs.pdb
+C:\Users\Walison\Documents\GitHub\Csharp\AprendendoCSharp\9.1-AliquotaComIfs\obj\Debug\9.1-AliquotaComIfs.csproj.CoreCompileInputs.cache
+C:\Users\Walison\Documents\GitHub\Csharp\AprendendoCSharp\9.1-AliquotaComIfs\obj\Debug\9.1-AliquotaComIfs.exe
+C:\Users\Walison\Documents\GitHub\Csharp\AprendendoCSharp\9.1-AliquotaComIfs\obj\Debug\9.1-AliquotaComIfs.pdb
